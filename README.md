@@ -1,5 +1,4 @@
 # EXPT 1b: Computation-of-DFT-using-FFT-ALGORITHM
-
 ## AIM
 To perform and verify DFT using FFT-ALGORITHM by SCILAB.
 ## APPARATUS REQUIRED
@@ -11,7 +10,7 @@ PC installed with SCILAB
 <br>
 <br>
 <br>
-
+ 
 <br>
 ### CALCULATIONS:
 <br>
@@ -26,7 +25,8 @@ PC installed with SCILAB
 <br>
 
 
-
 ## RESULT:
 Thus,  DFT using FFT-ALGORITHM for two given sequences were performed and its result was verified.
 
+
+  
