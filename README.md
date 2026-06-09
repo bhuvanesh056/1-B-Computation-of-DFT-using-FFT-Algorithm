@@ -16,6 +16,14 @@ PC installed with SCILAB
 ### SAMPLE OUTPUT:
 <img width="876" height="697" alt="image" src="https://github.com/user-attachments/assets/51a0e8f8-7da0-4227-b8ec-61dacc006368" />
 
+
+
+
+
 ## RESULT:
 Thus,  DFT using FFT-ALGORITHM for two given sequences were performed and its result was verified.
 
+
+
+
+.
